@@ -54,7 +54,7 @@ sudo vi index.html
   ![NS Name servers](Screenshot 2025-11-15 215904.png)
 - Then update these name server in your domain.
 ## Domain Name adding Name server
-![Nameservereditedondomain]()
+![Nameservereditedondomain](Screenshot 2025-11-15 215946.png)
 - Create **A record**
 - Set your domain, Enter your allotted Public IP and then Map it.
 ## Website before SSL certfication (Showing Not Secure)
