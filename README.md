@@ -45,7 +45,7 @@ sudo vi index.html
 - Press I to insert your own html code.
 - Write your own code.
 - After writing all code , Press Ctrl+C and then write ":wq" and Press Enter.
-- After writing[https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-08%20191627%20-%20Copy.png?raw=true]
+- After writing(https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-08%20191627%20-%20Copy.png?raw=true)
 
 ### 5. Map Domain with Route 53  
 - Register your own domain name.
@@ -75,4 +75,4 @@ sudo certbot --apache
   Check in browser → `https://yourpublicip`
 
 ## Website after SSL certfication using https (Showing Connection is Secure)
-![Webiste ater SSL certification](Screenshot 2025-11-11 183732.png)
+![Webiste ater SSL certification](https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-11%20183732.png?raw=true)
