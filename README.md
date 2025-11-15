@@ -14,7 +14,7 @@
 ![EC2 Instance](https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20215813.png?raw=true)
 
 
-Anoter instance page(https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20215835.png?raw=true)
+![Anoter instance page](https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20215835.png?raw=true)
 
 
 ### 2. Connect to EC2 (using PuTTY/SSH)  
@@ -53,12 +53,12 @@ sudo vi index.html
 ## Route 53 Hosted Zone
 
 
-![ hosted zone].(https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20215927.png?raw=true)
+![ hosted zone](https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20215927.png?raw=true)
 
 
 - You will get four NS name server.
 ## NS Name Servers
-  ![NS Name servers](https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20215904.png?raw=true)
+![NS Name servers](https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20215904.png?raw=true)
 - Then update these name server in your domain.
 ## Domain Name adding Name server
 ![Nameservereditedondomain](https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20215946.png?raw=true)
