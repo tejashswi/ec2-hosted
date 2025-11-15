@@ -35,7 +35,7 @@ sudo apt install apache2
 
 Check in browser → `http://yourpublicip`
 - An Apache page will be shown to your public ip.
-- apache page[https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20202950.png?raw=true]
+- ![apache page]([https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20202950.png?raw=true)
 
 ```bash
 cd /var/www/html
@@ -45,7 +45,7 @@ sudo vi index.html
 - Press I to insert your own html code.
 - Write your own code.
 - After writing all code , Press Ctrl+C and then write ":wq" and Press Enter.
-- After writing(https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-08%20191627%20-%20Copy.png?raw=true)
+-![ After writing](https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-08%20191627%20-%20Copy.png?raw=true)
 
 ### 5. Map Domain with Route 53  
 - Register your own domain name.
@@ -53,7 +53,7 @@ sudo vi index.html
 ## Route 53 Hosted Zone
 
 
-[ hosted zone].(https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20215927.png?raw=true)
+![ hosted zone].(https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20215927.png?raw=true)
 
 
 - You will get four NS name server.
