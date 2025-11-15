@@ -1,3 +1,4 @@
+
 # Hosting a Website on AWS EC2 with Route 53 and SSL  
 
 ## Steps to Deploy
@@ -11,6 +12,8 @@
 - Launch instance
 ## Launched EC2 Instance
 ![EC2 Instance](Screenshot 2025-11-15 215813.png)
+
+
 Anoter instance page[Screenshot 2025-11-15 215835.png]
 
 
