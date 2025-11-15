@@ -70,4 +70,4 @@ sudo certbot --apache
   Check in browser → `https://yourpublicip`
 
 ## Website after SSL certfication using https (Showing Connection is Secure)
-![Webiste ater SSL certification]()
+![Webiste ater SSL certification](Screenshot 2025-11-11 183732.png)
