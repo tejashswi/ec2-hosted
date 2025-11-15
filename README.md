@@ -11,7 +11,7 @@
 - Allow **HTTP (80)**, **HTTPS (443)**, and **SSH (22)**  
 - Launch instance
 ## Launched EC2 Instance
-![EC2 Instance](Screenshot 2025-11-15 215813.png)
+![EC2 Instance](https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20215813.png?raw=true)
 
 
 Anoter instance page[Screenshot 2025-11-15 215835.png]
