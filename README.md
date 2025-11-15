@@ -51,7 +51,7 @@ sudo vi index.html
 ![Route 53 Hosted Zone[Screenshot 2025-11-15 215927.png]
 - You will get four NS name server.
 ## NS Name Servers
-  ![NS Name servers]()
+  ![NS Name servers](Screenshot 2025-11-15 215904.png)
 - Then update these name server in your domain.
 ## Domain Name adding Name server
 ![Nameservereditedondomain]()
