@@ -54,7 +54,7 @@ sudo vi index.html
 ![Route 53 Hosted Zone[https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20215927.png?raw=true]
 - You will get four NS name server.
 ## NS Name Servers
-  ![NS Name servers](Screenshot 2025-11-15 215904.png)
+  ![NS Name servers](https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20215904.png?raw=true)
 - Then update these name server in your domain.
 ## Domain Name adding Name server
 ![Nameservereditedondomain](https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20215946.png?raw=true)
