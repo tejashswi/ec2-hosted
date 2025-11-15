@@ -11,7 +11,7 @@
 - Launch instance
 ## Launched EC2 Instance
 ![EC2 Instance](Screenshot 2025-11-15 215813.png)
-Anoter instance page[]
+Anoter instance page[Screenshot 2025-11-15 215835.png]
 
 
 ### 2. Connect to EC2 (using PuTTY/SSH)  
