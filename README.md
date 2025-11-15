@@ -51,7 +51,7 @@ sudo vi index.html
 - Register your own domain name.
 - Go to Route 53 on AWS, Click on Hosted Zones.
 ## Route 53 Hosted Zone
-![Route 53 Hosted Zone[Screenshot 2025-11-15 215927.png]
+![Route 53 Hosted Zone[https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20215927.png?raw=true]
 - You will get four NS name server.
 ## NS Name Servers
   ![NS Name servers](Screenshot 2025-11-15 215904.png)
