@@ -10,7 +10,8 @@
 - Allow **HTTP (80)**, **HTTPS (443)**, and **SSH (22)**  
 - Launch instance
 ## Launched EC2 Instance
-![EC2 Instance]()
+![EC2 Instance](Screenshot 2025-11-15 215813.png)
+Anoter instance page[]
 
 
 ### 2. Connect to EC2 (using PuTTY/SSH)  
