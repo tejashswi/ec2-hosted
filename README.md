@@ -20,6 +20,7 @@
 - Go to Auth
 - Choose key pair file you made while creating instance.
 ```bash
+
 login as username: ubuntu
 ```
 
@@ -39,6 +40,7 @@ sudo vi index.html
 - Press I to insert your own html code.
 - Write your own code.
 - After writing all code , Press Ctrl+C and then write ":wq" and Press Enter.
+- After writing[Screenshot 2025-11-08 191627 - Copy.png]
 
 ### 5. Map Domain with Route 53  
 - Register your own domain name.
