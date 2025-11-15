@@ -14,7 +14,7 @@
 ![EC2 Instance](https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20215813.png?raw=true)
 
 
-Anoter instance page[Screenshot 2025-11-15 215835.png]
+Anoter instance page(https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20215835.png?raw=true)
 
 
 ### 2. Connect to EC2 (using PuTTY/SSH)  
