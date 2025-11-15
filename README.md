@@ -35,7 +35,7 @@ sudo apt install apache2
 
 Check in browser → `http://yourpublicip`
 - An Apache page will be shown to your public ip.
-- apache page[Screenshot 2025-11-15 202950.png]
+- apache page[https://github.com/tejashswi/ec2-hosted/blob/main/Screenshot%202025-11-15%20202950.png?raw=true]
 
 ```bash
 cd /var/www/html
